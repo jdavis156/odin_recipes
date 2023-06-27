@@ -1,0 +1,25 @@
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+body {
+    background-color: black;
+    color: red;
+}
+ul {
+    width: 200px;
+    margin: 20px;
+    border: 5px;
+    border-style: groove;
+    border-color: red;
+    
+    
+    
+    
+    
+}
+ol {
+    margin: 20px;
+    
+    
+}

@@ -1,0 +1,64 @@
+h1 {
+    color: white;
+  text-align: center
+    
+}
+
+
+
+
+li {
+    color: red;
+    list-style: none;
+ 
+}
+body {
+    background-color: black;
+    
+
+    
+}
+
+.container {    
+    width: fit-content;
+    margin: auto;
+    padding: 0;
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    
+    
+   
+    
+    
+    }
+    .container > div {
+    /*  flex: 1; how to make content fit and stretch */
+    
+    
+    }
+    a {
+        text-decoration: none;
+        font-size: 30px;
+        font-weight: 700;
+        color: white;
+        
+    }
+    .one {
+        background-color: burlywood;
+        padding: 20px;
+        min-width: 0;
+    }
+    .two {
+        background-color: darkred;
+        padding: 20px;
+        min-width: 0;
+    }
+    .three {
+        background-color: burlywood;
+        padding: 20px;
+        min-width: 0;
+    }
+   
+    
